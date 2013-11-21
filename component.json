@@ -1,0 +1,14 @@
+{
+  "name": "path",
+  "repo": "xcoderzach/path",
+  "description": "Node path shim with some of the methods.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
